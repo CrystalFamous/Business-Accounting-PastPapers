@@ -1,0 +1,427 @@
+# s17_ms_12
+# s18_ms_12
+# s19_ms_12
+# s20_ms_12
+# s21_ms_12
+
+
+
+1 = INTERPRISE = ['added-value','opportunity cost','Entrepreneur','social enterprises','Triple bottom line']
+2 = BUSINESS_STRUCTURE = ['P/S/T sectors','public/private sector','Mixed/Free-Market/Command Economy','Sole trader','partnership','Limited company','stakeholder,'Franchise','Joint venture','Public corporation']
+3,7 = SIZE _OF_BUSINESS = ['Market share','Internal/external growth','Merger'.'Takeover']
+4 = BUSINESS_OBJECTIVE = ['Mission statement','Objectives','ethical code']
+5 = STAKEHOLDERS_IN_A_BUSINESS = ['Stakeholder','Corperate social responsibility(CSR)']
+10 = MANAGEMENT_AND_LEADERSHIP = ['Manager','leadership','autocratic','democratic','paternalistic','laissez-faire','informal leader','emotional intellegence']
+11 = MOTIVATION = ['Motivation','Job enrichment','Fringe benefits','training','Quality circles','worker participation','Teamworking']
+12 = HUMAN_RESOURCE_MANAGEMENT = ['Human resource management(HRM)','recruitment','selection','Contract','Labour turnover','Training','Dismissal','Unfair Dismissal','Equality/diversity policy']
+16 = WHAT_IS_MARKETING = ['Marketing objectives','Marketing strategy','Market orientation','Product orientation','Asset-led marketing','Societal marketing','Demand','Supply','Market share','Unique selling point(USP)','Niche/mass marketing','market segmentation']
+17 = MARKET_RESEARCH = ['Market research','primary/secondary research','Qualitative/Quantitative research','Focus groups','sample]
+18 = PRODUCT_AND_PRICE = ['Marketing mix','Unique selling point (USP)','brand','Customer relationship management(CRM)','Product portfolio analysis','Product life cycle','Extenstion strategy','Consumer Durable','Markup pricing','target pricing','Fullcost pricing','Contribution cost pricing','competition-based pricing','price discrimination','dynamic pricing','penetration pricing','Market skimming']
+19 = PROMOTION_AND_PLACE = ['Promotion','Promotion mix','Above the line promotion','Below the line promotion','Personal selling','Branding','Marketing/promotion budget','Channel of distribution','E-commerce','Viral marketing','Integrated marketing mix']
+22 = THE_NATURE_OF_OPERATIONS = ['Transformation process','Intellectual caoutal','Level of production','Efficiency','Effectiveness','LAbour intensive','Capital intensive']
+23 = OPERTIONS_PLANNING = ['Operations planning','operational flexibility','process innovation','Batch production','Job production','Flow production','Mass customization','scale of production','Economies of scale']
+24 = INVENTORY_MANAGEMENT = ['Inventory','Economic order quantity','Re-order quantity','Lead time','Buffer inventories','Just in time(JIT']
+25 = CAPACITY_UTILISATION = ['Capital utilisation','Excess capacity','rationalisation','Full capacity','capacity shortage','Outsourcing','Business process outsourcing(BPO)]
+28 = BUSINESS_FINANCE = ['Startup capital','Working capital','Liquidity','capital/revenue expenditure','Overdraft','Factoring','Hire purchase','Leasing','Equity finance','Loans','Rights issue','venture capital','Crowd funding','Microfinance','Bsuiness plan']
+29 = COSTS = ['Direct costs','Indirect costs','Fixed/variable costs','Marginal costs','Break even point','Marign of safety','Contribution per unit']
+30 = ACCOUNTING_FUNDAMENTALS = ['Income statement','Dividends','Retained earnings','Shareholders equity','Goodwill','Cash flow statement','window dressing']
+31 = FORECASTING_AND_MANAGING_CASHFLOW = ['Cash flow','liquidation','Insolvent','Cash flow forecast','Credit control','Bad debt','Over trading']
+33 = BUDGETS = ['Budget','Budget holder','Variance analysis','Delegated budgets','Incremental budgeting','Zero budgeting','Flexible budgeting','Adverse variance','Favourable variance']
+
+9609_s17_ms_12:
+
+8 marks and 12 marks Questions
+
+Analyse problems a business could experience in its first year of trading. [8]
+
+    • establish and build a customer base of loyal returning customers.
+    • establish itself in the market.
+    • effectively manage cash flow : generate sufficient working capital.
+    • establish good relations with suppliers.
+    • follow an effective pricing strategy that allows the business to compete effectively.
+
+Analysis
+
+    • lack of cash and working capital
+    • uncompetitive production
+    • inability to effectively market the business
+    • insufficient demand to survive
+    • failure to secure external finance
+    • inability to repay start-up capital
+
+Note: Write about how important or how it can be solved
+
+Discuss whether market research will reduce problems that might be 
+experienced by a new start-up business. [12]
+
+Note: Include Knowledge,Analysis,App,Evaluation
+
+    • Definition and methods of research [2]
+    • Ways in which new business problems could be reduced by market
+      research could include (prior to start-up and in the early period of
+      trading.)
+    • Better understanding of your target market.
+    • Identify and keep up with market trends.
+    • Set realistic targets for sales and revenue.
+    • Make better informed marketing decisions (4Ps).
+    • Better identify specific problems : sales fall due to new competitor,
+      or substitute produce now available.
+    • Identify new business opportunities.
+
+    Hints:
+
+        Market research then has the potential to provide more accurate information:
+        data relating to potential customers,
+        existing and potential competitors.
+        products, marketing opportunities: 
+            that may well reduce risk and facilitate
+            more confident business decision making.
+        It is, however, expensive (particularly primary market research) and new
+        start-up businesses may not have the finance or the inclination to engage in
+        extensive market research.
+    
+    Evaluation:
+
+        ALSO not all problems experienced by a new start up business will be
+        problems that can be solved by market research 
+        e.g. the internal management of the new business may be inadequate, sudden changes
+        in the external environment may present significant problems for a new
+        business such as recession and new competition, new technology etc.
+        
+Analyse how any one stakeholder group could use both an
+income statement and a statement of financial position.
+
+    Introduction:
+        A review of the contents of Income Statements (cost of sales, gross
+        profit, operating profit, profit for the year, retained earnings)
+
+        Statement of financial position (current assets, non-current assets,
+        current liabilities, working capital, net assets, non-current liabilities,
+        reserves and equity.
+        • the statements contain important accounting information and assists
+            the following:
+            - informs decision-making knowledge of profit level assists 
+            - decisions on whether to invest in growth.
+            - helps to monitor progress against targets / plans / budgets,
+            - assists comparisons with previous years’ performance.
+            - identifies cash flows, identifies where costs need reducing and
+            - reserves increasing.
+    Reasons:
+        • employees can review the progress of the business.
+        • assists investors to decide to further invest, or not.
+        • government can see if the correct amount of tax has been paid.
+        • suppliers can assess the health of a business.
+        • facilitates comparisons with other companies' results.
+        • the quantitative information and measures contained within these
+        statements assists internal and external stakeholders to take a view
+        of the absolute and relative strength of a business.
+        • these are metrics so, of course, have their limitations and answers
+        may well question the level of usefulness, 
+        referring to some
+        limitations: historic, inaccurate, misleading etc.:
+        these comments could well act as a bridge into the answer to
+        Section (b) of this question.
+
+Discuss the view that the quantitative information in published accounts
+does not present a complete picture of business performance.
+
+    Note: Talk about difference between quantitative & qualitative w/ examples
+
+    • discussion of the limitations of quantitative measures of
+    performance as provided in published accounts leading to an
+    incomplete picture of business performance.
+    • a focus on the past : not the present or future.
+    • measurement of the metrics can lead to window
+    dressing.
+    • you only count what can be counted and other information is left out
+
+    - one of the main reasons that performance information and measures
+    - are produced is for a company to learn, change, and improve and
+    - quantitative measures may not be sufficient.
+
+    - quantitative measures may well focus only on internal business
+    - activity ignore external issues such as customer levels of satisfaction
+    - and competitor positions.
+
+    Evaluation:
+        • it is argued that quantitative information / performance measures
+        need to be complemented with qualitative information (internal and
+        external)
+        - • the ‘balanced scorecard’ approach of Kaplan suggests a mixture of
+        -   quantitative and qualitative KPIs.:
+                ```The term balanced scorecard (BSC) refers to a strategic management performance 
+                metric used to identify and improve various internal business functions and
+                their resulting external outcomes.
+                Used to measure and provide feedback to organizations,
+                Company personnel can use this information to make better decisions 
+                for the future of their organizations.```
+        • qualitative information suggested on the management of human
+        resources (culture, quality of management) on product / service
+        quality, on brand awareness and company profile / reputation as
+        important
+
+        - • easy to count numbers not so easy to count overall service delivery, organisational culture,
+        - intellectual capital, strength of customer relationships ethical / unethical activities.
+
+        - • qualitative information using words and pictures reviewing feelings and behaviours will
+        -   enhance any measure of business performance.
+       
+        # • quantitative information and performance measures are important
+        # but over-reliance on these can skew any assessment of business
+        # performance and give only a partial view.
+
+9609_s18_ms_12
+
+Analyse why a train company might use a strategy of price
+discrimination:
+    • Price discrimination is a pricing strategy by a business to charge
+    different prices to different customers for the same product. [2]
+
+    • Price discrimination is not price differentiation such as different
+    prices for different services such as first and second class. [1~2]
+
+    • The train company may be able to segment its market into groups of
+    passengers having similar characteristics. [1] Introduction
+        • If able to keep these segments apart it can sell different-priced
+        tickets according to their reasons for travel business and leisure.
+        • Can be used to attract passengers at times when trains may not be
+        filled to capacity e.g. off-peak.
+        • Market conditions and operational opportunities provide a range of
+        pricing options for the business.
+        • The price elasticity of demand for a product (e.g. inelastic demand)
+        may provide an opportunity for a business to adopt a price
+        discrimination strategy.               [4] Body 
+
+    • The train company can sell different-priced tickets and maximise
+    revenue and potentially increase profits and profitability. [1] Evaluation
+
+Discuss whether having a large product portfolio is an advantage to a
+car manufacturer.
+
+• Product portfolio is the range of products / services sold by a
+business. [1]
+
+    ̶ e.g. the business’ advantage over its competitors through
+    higher sales, margins, number of customers, due to the size of
+    its product portfolio (market share) [2]
+    • A range of products (cars) can meet the needs of different
+    customers  allowing sales in different geographical areas and to
+    business and private customers. [2]
+     e.g. meet the specific needs of an emerging economy with basic
+    low-cost motoring.
+    • Can provide basic and luxury models. [1]
+    • Will need a broad range of models if seeking to provide for a
+    segmented market(s)  more choice for customers. [2]
+    • It spreads the risk  a decline in some products may be offset by
+    offers. Link to product life cycle. [2]
+    • A large product portfolio has the potential to generate high returns. [1]
+
+    Evaluation:
+    while it might be a competitive advantage,
+    a large product portfolio has potential negative features:
+    a single model or limited model production might be a safer and more
+    profitable approach. [1]
+    
+    As having a large product portfolio means that business would need
+    more different raw material which could increase costs of auditing
+    as variable costs differ and inventory costs increase [1]
+
+In recent years a significant number of businesses have been accused
+of being unethical.
+Discuss whether senior managers should consider ethics when making
+business decisions.[20]
+
+    Ethical decision-making  decisions taken with a reference point of
+    morality  the ‘right’ (rather than ‘wrong’) decisions in relation to
+    employees, customers, suppliers, the environment. [2]
+
+    • Ethical decisions may increase costs and limit business activities.
+    • There is increasing scrutiny of business behaviour and activities by
+    outside agencies/pressure groups. 
+     • Senior managers likely to take decisions that can have a significant
+    impact on others (examples  exploitation, bribery, child labour).
+    • Senior managers becoming more aware of consequences of
+    unethical decisions  reputational damage (examples). [4]
+
+    • Senior managers may see a competitive advantage in being ethical
+    and stakeholders may have a greater expectation of ethical
+    behaviour. Its importance may depend on a number of factors:
+        Extent of stakeholder pressure.
+        Values of senior managers and/or owners.
+        What are other businesses doing? [1]
+        
+    # • Senior managers may make a risk assessment of ethical / unethical
+    # decisions and will need to take account of external factors and the
+    # unique situations experienced.
+
+    Evaluation:
+        • Does the need to avoid pressure group activity / government action
+        (taxes and grants) put pressure on the senior manager?
+        • Also answers may propose that internal concerns about reputation
+        and brand image suggest that the extra short term costs of becoming
+        more ethical can be outweighed by the likelihood of future long term
+        benefits.
+
+        answer may well refer to important business decisions such as
+        relocation, changing suppliers, CSR, supply chains, code of conduct, brand
+        reputation, purchase of fixed assets, production/output, HRM decision such
+        as the difficulty/ease of attracting employees to the business.
+
+Analyse why many human resource management departments have
+developed policies for diversity and equality.
+
+    • Definitions of diversity and equality:
+    the acknowledgement and celebration of difference and
+     the elimination of discrimination and increasing access for all in business.
+    • Examples of policies for diversity and equality. [2~3]
+
+    • In some countries the law now requires explicit policies relating to
+    diversity and equality  businesses are required to comply. [1]
+    • Many businesses now recognise the negative business 
+    consequences of inequality and discrimination. [1]
+    • HRM departments follow and reflect changing societal demands for
+    more equality and diversity. [1]
+    • Business are seen as a microcosm of society and HRM at forefront
+    of attempts to produce inclusive environments and cultures in the
+    work organisation. [1]
+    • Seen by some as a competitive advantage to have operating
+    policies of diversity and equality. [1]
+        - Employees are more motivated as they feel socially safe from discrimination
+        - and have equal pay with other employees. [1]
+
+A significant investment in training and development is the best way to
+improve employee effectiveness in a retail business.:
+
+    Note: GIVE APPLICATION TO RETAIL BUSINESS OTHERWISE THEY WILL CORRECT UNTIL LEVEL 2
+        WHICH IS [3~6] MARKS TOTAL
+
+    • Training and development aims to strengthen and update employee
+    job-related knowledge and skills. [1]
+    • Retail is a ‘labour intensive’ business where customer service skills
+    are critical. [2]
+    • Training and development might be part of a motivation package to
+    improve performance. [1]
+    (how much to invest into training and development)
+    
+    Evaluation:
+
+        • ‘Best way’ depends on a number of factors, e.g.
+            the current state of employee performance
+            is the extent of training and development comparable with competitors?
+            the level and impact of pay
+            past investment in training and development.
+
+        • Could a more effective recruitment and selection process be more
+        successful at improving employee performance?
+        • It might be considered effective, but can the business afford a
+        ‘significant’ level of investment in training and development (time
+        and money). [4] ([4] Explaination and analysis)
+
+    Evaluative comments may well consider that the ‘best way’ all depends on
+    the particular time and circumstances of a business and discuss alternative
+    ways of improving employee effectiveness in a retail business (such as more money).
+
+9609_s19_ms_12
+
+Analyse the advantages of crowd funding as a source of finance for
+small businesses.:
+
+    • Small businesses typically have significant problems in raising funds.
+    • The practice of funding a project / venture by raising monetary
+    contributions from a large number of people, typically via the internet. [2]
+
+    • Access to cheap(er) money for small and medium sized businesses.
+    • May not have to pay interest or be repaid. 
+    (However, in some instances crowd funding may have interest and repayment.) [1~2]
+    • No need to sell an equity stake in the business.
+    • Fast and flexible source of finance.
+    • Allows many more speculative projects to be funded.
+    • Supports business expansion. [2]
+    • Acts as a marketing / brand tool.
+    • May give feedback and advice to project fund seeker.
+    • Entrepreneurs do not have to risk own money for a new venture. [2]
+
+Financial measures are the most important indicators of business performance.:
+
+    • financial measures of performance such as financial results data and
+    ratio analysis.
+    • Quantitative measures of business performance are important and strong
+    answers may well outline the value of financial measures before discussing the
+    case for including the qualitative performance measures. [2]
+
+    • Financial measures could include the following: profit, cash flow, break
+    even, liquidity (current ratio, acid test ratio), profitability (gross profit
+    margin, net profit margin and return on capital employed). Reference
+    may also be made to income statements and statements of financial position.
+
+    - • Recognition of the limitations of financial data:
+        and often too little emphasis on the qualitative drivers of performance,
+        such as `innovation, quality, employee relations, intangible assets.`
+        • Advantages of non-financial methods of performance measurement: –
+        drivers to success are often intangible assets – customer loyalty –
+        innovation, management capability, employee relations, brand value –
+        may well compose a significant proportion of the value of a business.
+        • Non-financial measures are more closely linked to long-term strategy of
+        a business – the progress made towards reducing competition,
+        increasing customer loyalty – while traditional measures are more short
+        term.
+    
+    Evaluation:
+
+        focus on the value and advantages of financial / quantitative measures and
+        assess their performance.
+        • Non-financial measures can be better indicators of the long term / future
+        financial performance – R&D decisions made now may well produce
+        longer term benefits – traditional measures do not capture this.
+
+Analyse the impact of social enterprises on the development of a
+country.
+
+    social objectives that reinvest profit into social benefit activities.
+    • Commercial businesses that aim to make a surplus in socially
+    responsible ways and distribute any profit to society – business
+    principles with social objectives – economic – social – environmental
+    objectives – triple bottom line businesses. [3]
+
+    • Social enterprises enrich the types of business units in a country –
+    provide services that PLCs and other businesses cannot or do not want
+    to provide – so important in developing a variety of business responses
+    and objectives.
+
+    • Examples of impact of social enterprises:
+    – Provide finance for emerging entrepreneurial projects; allow small
+    businesses to be set up; provide finance for environmental
+    improvement; fill a gap when charities run out of funds;
+    supplement key infrastructure systems.
+
+    Evaluation:
+        • This can be very important in stimulating the economy and giving a
+        different emphasis to business objectives and opportunities.
+
+
+The purchase of an internationally recognised fast food franchise
+guarantees business success.
+
+• Definition and advantage [2]
+    – More chance of business success when using an established brand and product.
+    – National / international promotion is available, often at nil or limited cost.
+    – Training and advice offered by franchiser.
+    – Location of business protected.
+    – Supplies of food guaranteed in terms of quality and consistency.
+• However, is a franchisee guaranteed success?
+• There are significant costs to pay before ‘profit’ is achieved.
+    • The business still needs to be effectively and efficiently managed
+     e.g. quality of serving and food production employees – is there managerial capability 
+    – what happens if the franchise business suffers as a result of
+    recession in particular companies 
+    – or reputation suffers customer tastes change?
+
+• It also depends on what is meant by ‘business success’ – short-term –
+long-term – profits – expansion?
+
+Evaluation: 
+    • Effective evaluation is likely to be evidenced by a consideration /
+    discussion of the extent to which business success is likely to be
+    guaranteed by a fast food franchise and of other factors which are
+    associated with business success.
+    (use examples given)
