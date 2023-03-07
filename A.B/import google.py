@@ -3,7 +3,7 @@ import webbrowser
 from googlesearch import search
 
 print("Which subject do you want?")
-print("Acc,Bus,CS")
+print("Acc?(Making a business and computer option is a pain to my head)")
 sub = input()
 if sub == "Acc" or sub == "acc":
     print("Which year? 2015-2022")
@@ -29,16 +29,4 @@ if sub == "Acc" or sub == "acc":
     print(Link)
     print(year,mid,month,paper,choice)
     
-    
-    
-
-    
-
-
-
-
-
-# query = str(x)
-
-# for url in search(query):
-#     print(url)
+ #Made by King brahim
